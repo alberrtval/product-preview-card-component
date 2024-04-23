@@ -136,7 +136,7 @@ p {
 @media screen and (max-width: 520px) {
     body {
         height: 100vh;
-        overflow: hidden;
+        overflow-x: hidden;
     }
 
     .container {
