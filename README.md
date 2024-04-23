@@ -15,12 +15,15 @@ The project makes you develop a selling card that can be integrated anywhere aro
 
 ### Screenshot
 
-![mobile-design](designs\mobile-design.png)
-![desktop-design](designs\desktop-design.png)
+Mobile design:
+![mobile-design](https://github.com/alberrtval/product-preview-card-component/blob/main/designs/mobile-design.png)
+
+Desktop design:
+![desktop-design](https://github.com/alberrtval/product-preview-card-component/blob/main/designs/desktop-design.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [product-preview-card-component](https://alberrtval.github.io/product-preview-card-component/)
 - Live Site URL: [product-preview-card-component](https://github.com/alberrtval/product-preview-card-component)
 
 ### Built with
