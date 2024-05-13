@@ -30,6 +30,10 @@ body {
     width: 500px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .bottle {
     flex-grow: 1;
     height: 100%;

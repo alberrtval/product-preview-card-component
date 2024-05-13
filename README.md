@@ -1,11 +1,15 @@
-# Frontend Mentor - Product preview card component solution
+# Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+The project consists of a product preview card component, designed to be integrated into any part of a website 
+or application. This preview card provides a visually appealing solution for displaying information about a 
+specific product, adapting to both mobile and desktop devices.
 
 ## Table of contents
 
   - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Key Features](#Key-Features)
+  - [How To Use](#How-To-Use)
   - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
@@ -20,6 +24,24 @@ Mobile design:
 
 Desktop design:
 ![desktop-design](https://github.com/alberrtval/product-preview-card-component/blob/main/designs/desktop-design.png)
+
+### Key Features
+• Responsive Design: The component is designed to work and look good on a variety of devices, including mobile and 
+desktop. A combination of semantic HTML and custom CSS is used to achieve a flexible and responsive layout.
+
+• Easy to Integrate: The main goal of the project is to provide a component that can be easily integrated into any 
+web project or application. Modern web development techniques, such as Flexbox, are used to ensure that the component 
+is easy to implement and customize.
+
+• Customizable: Although the initial design of the component is provided as a starting point, the code is designed 
+to be easily customizable according to project needs. Custom CSS variables are used to allow for quick changes 
+in colors, sizes, and other visual aspects.
+
+### How To Use
+• The project includes HTML and CSS files that can be directly integrated into an existing project.
+• Simply copy and paste the HTML and CSS code into your project and customize as needed.
+• Links are provided to a live demonstration of the component, as well as to the GitHub repository where the source 
+code can be accessed.
 
 ### Links
 
