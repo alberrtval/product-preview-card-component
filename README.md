@@ -6,12 +6,14 @@ specific product, adapting to both mobile and desktop devices.
 
 ## Table of contents
 
+- [Product preview card component solution](#product-preview-card-component-solution)
+  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Key Features](#Key-Features)
-  - [How To Use](#How-To-Use)
-  - [Links](#links)
-  - [Built with](#built-with)
+    - [Screenshot](#screenshot)
+    - [Key Features](#key-features)
+    - [How To Use](#how-to-use)
+    - [Links](#links)
+    - [Built with](#built-with)
   - [Author](#author)
 
 ## Overview
@@ -20,10 +22,12 @@ The project makes you develop a selling card that can be integrated anywhere aro
 ### Screenshot
 
 Mobile design:
-![mobile-design](https://github.com/alberrtval/product-preview-card-component/blob/main/designs/mobile-design.png)
+
+<img src="https://github.com/alberrtval/product-preview-card-component/blob/main/designs/mobile-design.png" alt="mobile-design" width="300">
 
 Desktop design:
-![desktop-design](https://github.com/alberrtval/product-preview-card-component/blob/main/designs/desktop-design.png)
+
+<img src="https://github.com/alberrtval/product-preview-card-component/blob/main/designs/desktop-design.png" alt="desktop-design" width="500">
 
 ### Key Features
 • Responsive Design: The component is designed to work and look good on a variety of devices, including mobile and 
@@ -39,7 +43,9 @@ in colors, sizes, and other visual aspects.
 
 ### How To Use
 • The project includes HTML and CSS files that can be directly integrated into an existing project.
+
 • Simply copy and paste the HTML and CSS code into your project and customize as needed.
+
 • Links are provided to a live demonstration of the component, as well as to the GitHub repository where the source 
 code can be accessed.
 
