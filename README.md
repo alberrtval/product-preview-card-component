@@ -1,65 +1,59 @@
-# Product preview card component solution
+# Product Preview Card Component
 
-The project consists of a product preview card component, designed to be integrated into any part of a website 
-or application. This preview card provides a visually appealing solution for displaying information about a 
-specific product, adapting to both mobile and desktop devices.
+This project showcases a responsive product preview card component that can be integrated into any website or application. The component features a modern design and provides a visually appealing way to display product information on both mobile and desktop devices.
 
-## Table of contents
+## Table of Contents
 
-- [Product preview card component solution](#product-preview-card-component-solution)
-  - [Table of contents](#table-of-contents)
+- [Product Preview Card Component](#product-preview-card-component)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
+      - [Mobile Design:](#mobile-design)
+      - [Desktop Design:](#desktop-design)
     - [Key Features](#key-features)
     - [How To Use](#how-to-use)
     - [Links](#links)
-    - [Built with](#built-with)
+    - [Built With](#built-with)
   - [Author](#author)
 
 ## Overview
-The project makes you develop a selling card that can be integrated anywhere arouinto a website or an app.
+
+The product preview card component is designed to be a versatile and stylish way to display product details. It is fully responsive, adapting seamlessly to various screen sizes, making it ideal for use in diverse web projects. 
 
 ### Screenshot
 
-Mobile design:
+#### Mobile Design:
 
 <img src="https://github.com/alberrtval/product-preview-card-component/blob/main/designs/mobile-design.png" alt="mobile-design" width="300">
 
-Desktop design:
+#### Desktop Design:
 
 <img src="https://github.com/alberrtval/product-preview-card-component/blob/main/designs/desktop-design.png" alt="desktop-design" width="500">
 
 ### Key Features
-• Responsive Design: The component is designed to work and look good on a variety of devices, including mobile and 
-desktop. A combination of semantic HTML and custom CSS is used to achieve a flexible and responsive layout.
 
-• Easy to Integrate: The main goal of the project is to provide a component that can be easily integrated into any 
-web project or application. Modern web development techniques, such as Flexbox, are used to ensure that the component 
-is easy to implement and customize.
-
-• Customizable: Although the initial design of the component is provided as a starting point, the code is designed 
-to be easily customizable according to project needs. Custom CSS variables are used to allow for quick changes 
-in colors, sizes, and other visual aspects.
+- **Responsive Design**: The component looks great on both mobile and desktop devices, utilizing CSS Flexbox and media queries for layout adjustments.
+- **Easy to Integrate**: The code is straightforward and can be easily added to any project with minimal modifications.
+- **Customizable**: The design is built with flexibility in mind, allowing for easy customization through CSS variables and classes.
 
 ### How To Use
-• The project includes HTML and CSS files that can be directly integrated into an existing project.
 
-• Simply copy and paste the HTML and CSS code into your project and customize as needed.
-
-• Links are provided to a live demonstration of the component, as well as to the GitHub repository where the source 
-code can be accessed.
+1. **Clone the Repository**: Clone this repository or download the ZIP file.
+2. **Open the Files**: Extract the files and open `index.html` in a web browser to view the component.
+3. **Integrate the Code**: Copy the HTML and CSS code into your project and customize the styles as needed.
+4. **Adjust the Design**: Modify the CSS variables and classes to match your project's design requirements.
 
 ### Links
 
-- Solution URL: [product-preview-card-component](https://alberrtval.github.io/product-preview-card-component/)
-- Live Site URL: [product-preview-card-component](https://github.com/alberrtval/product-preview-card-component)
+- **Solution URL**: [Product Preview Card Component GitHub Repository](https://github.com/alberrtval/product-preview-card-component)
+- **Live Site URL**: [Live Demo](https://alberrtval.github.io/product-preview-card-component/)
 
-### Built with
+### Built With
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- **Semantic HTML5**: Markup that follows best practices for readability and SEO.
+- **CSS Custom Properties**: Enables easy customization of the component's styles.
+- **Flexbox**: Provides a flexible and responsive layout structure.
 
 ## Author
 
-- Website - [alberrtval](https://github.com/alberrtval)
+- **GitHub**: [@alberrtval](https://github.com/alberrtval)
